@@ -1,0 +1,15 @@
+# Compiled binaries & object files
+*.exe
+*.o
+*.obj
+*.out
+*.app
+
+# IDE & Editor files
+.vscode/
+.idea/
+*.suo
+*.user
+
+# Output files
+scores.txt
